@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+nav {
+    position: relative;
+    top: 0;
+    background: #AAAAAA ;
+}
+
+.nav-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-center h4 {
+    margin: 0;
+}
